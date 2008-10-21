@@ -1,11 +1,3 @@
 #summary Screenshots of Ringdroid
 
 http://ringdroid.googlecode.com/svn/wiki/ringdroid_screenshot.png
-
-http://ringdroid.googlecode.com/svn/trunk/res/drawable/ringdroidlogo.png
-
-[http://code.google.com/ http://code.google.com/images/code_sm.png]
-
-http://code.google.com/images/code_sm.png
-
-[http://code.google.com/ http://code.google.com/images/code_sm.png]

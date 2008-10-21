@@ -32,6 +32,6 @@ Joseph Wain did the graphics and helped with the UI layout, and Eugene Koh acted
 
 ==Join the team==
 
-This project is open-source.  If you are a programmer, we would welcome your contributions.  Please start by following the instructions on [BuildingRingdroid].
+This project is open-source.  If you are a programmer, we would welcome your contributions.  Please start by following the instructions on [Building].
 
 If you are not a programmer, you're also welcome to contribute in other ways.  Submitting bug reports and feature requests is always welcome, although please be careful not to submit just anything as a feature request before checking to see if it's possible with Android.  For example, playing protected iTunes audio files is impossible at this time.

@@ -16,6 +16,7 @@ _This wiki page is a work in progress.  Please contribute by helping to make it 
   * Now use the "cd" command to go into the "tools" directory within this directory: {{cd tools}}}
   * Create an sdcard with this command: {{{./mksdcard 256M sdcard1.iso}}}
   * Start the emulator with this command: {{{./emulator -sdcard sdcard1.iso &}}}
+    * If it complains "Cannot create data directory", type "mkdir -p " followed by the directory it wanted, then try again.
   * Wait for the emulator to start up and make sure it's working
   * Download the Ringdroid APK from the "Downloads" section of this site, and put it in the same directory (tools), or somewhere else where you can find it.
   * Run {{{./adb install -r Ringdroid.apk}}} to install Ringdroid into this emulator

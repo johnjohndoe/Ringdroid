@@ -14,7 +14,7 @@ _This wiki page is a work in progress.  Please contribute by helping to make it 
   * Open the Terminal (in Applications => Utlities)
   * Use the "cd" command to change the directory to the location of the Android SDK that you just downloaded.  One way to do this is to drag the folder icon into the Terminal window.  For example: {{{cd /Users/dmazzoni/android-sdk-mac_x86-1.0_r1/}}}
   * Now use the "cd" command to go into the "tools" directory within this directory: {{cd tools}}}
-  * Create an sdcard with this command: {{{./mksdcard 1024M sdcard1.iso}}}
+  * Create an sdcard with this command: {{{./mksdcard 256M sdcard1.iso}}}
   * Start the emulator with this command: {{{./emulator -sdcard sdcard1.iso &}}}
   * Wait for the emulator to start up and make sure it's working
   * Download the Ringdroid APK from the "Downloads" section of this site, and put it in the same directory (tools), or somewhere else where you can find it.
@@ -34,7 +34,7 @@ _This wiki page is a work in progress.  Please contribute by helping to make it 
   * Click on the link to the package android-sdk-linux_x86-1.0_r1.zip, next to "Linux (i386)"
   * Unzip the directory somewhere you can find it, like under your home directory
   * Open a new shell window and "cd" into the "tools" directory inside of the SDK directory you just unzipped.
-  * Create an sdcard with this command: {{{./mksdcard 1024M sdcard1.iso}}}
+  * Create an sdcard with this command: {{{./mksdcard 256M sdcard1.iso}}}
   * Start the emulator with this command: {{{./emulator -sdcard sdcard1.iso &}}}
   * Wait for the emulator to start up and make sure it's working
   * Download the Ringdroid APK from the "Downloads" section of this site, and put it in the same directory (tools), or somewhere else where you can find it.

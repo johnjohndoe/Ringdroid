@@ -1,0 +1,28 @@
+#summary How to use Ringdroid
+
+_We need volunteers to help write this page._ Please email ringdroid-support@google.com if you can help!
+
+==Put songs on your SD card==
+
+The first step is to copy songs onto your SD card.  Connect your handset to your computer using the supplied USB cable.  Your handset will now appear on your computer just like a disk, CD-ROM, flash drive, or external disk would.  Copy MP3 files and other audio files to your SD card, and then unmount the drive and disconnect the USB cable.
+
+==Download songs from the Amazon MP3 store==
+
+Use the Amazon MP3 application to purchase music.  Any MP3 purchased via Amazon can be edited using Ringdroid.
+
+==Edit songs using Ringdroid==
+
+After you've copied songs to your handset, you can edit them using Ringdroid.  Open Ringdroid, and the first screen
+
+==Save your edited sound==
+
+==Set your default ringtone==
+
+==Set the ringtone for a contact==
+
+==Set an alarm sound==
+
+==Set a notification sound==
+
+==Record new sounds==
+

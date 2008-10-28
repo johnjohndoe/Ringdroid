@@ -2,7 +2,7 @@
 
 ==How do I use Ringdroid?  I don't even know where to start!==
 
-See [Using Ringdroid].
+See [UsingRingdroid].
 
 ==Why does Ringdroid only show some of my songs and not all of them?==
 

@@ -1,0 +1,45 @@
+#summary Frequently Asked Questions
+
+==How do I use Ringdroid?  I don't even know where to start!==
+
+See [Using Ringdroid].
+
+==Why does Ringdroid only show some of my songs and not all of them?==
+
+Ringdroid only supports *MP3*, *WAV*, and *AMR* files.  The filenames must have the correct extension or Ringdroid will not recognize them!  For example, make sure that an MP3 file ends in ".mp3".
+
+If you would like Ringdroid to support an additional file format, tell us which one by [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA filling out our survey]
+
+If you have a file that appears to be in the correct format but Ringdroid has trouble with it, please email the file to ringdroid-support@google.com and we will try to fix the problem in the next version.
+
+==How do I delete ringtones I created?==
+
+When you create a ringtone using Ringdroid, it's just saving a new sound file on your SD card.  You can delete ringtones from your SD card the same way you would delete any other file you've copied to your SD card.  Attach your handset to your computer using a USB cable, and the contents of your SD card will show up on your computer's desktop.  Look in the folders *audio > media > ringtones* to find the ringtones created by Ringdroid.  Drag any of those files to your trash / recycle bin to delete them from your SD card.
+
+You can also use an SD Card Reader rather than connecting your handset to your computer.
+
+We haven't seen an SD Card file manager for Ringdroid yet, but it would be possible - and if someone ever creates one, you would be able to use that to delete files.
+
+==I got an error while saving==
+
+  # Is your handset connected to your computer via USB?  Try disconnecting it first.
+  # Is your selection very short?  Android has problems with very short sound files; try making it at least one second long.
+  # Is there a problem with your SD card?  Try removing it and inserting it again.
+  # If all else fails, reboot your handset (turn it off and then on).
+  # If the problem persists, email ringdroid-support@google.com and tell us as much information as possible about the error you're getting.
+
+==It sounds distorted or funny!==
+
+*Is the original sound distorted, or just the ringtone you created with Ringdroid?*  Try opening the "Music" application.  If 
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

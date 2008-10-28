@@ -1,14 +1,18 @@
 #summary Frequently Asked Questions
 
-==How do I use Ringdroid?  I don't even know where to start!==
+==How do I use Ringdroid? I don't even know where to start!==
 
 See [UsingRingdroid].
 
 ==Why does Ringdroid only show some of my songs and not all of them?==
 
-Ringdroid looks for files on your SD card.  Transfer files to your SD card and then disconnect the USB cable so Ringdroid can find them.
+Ringdroid looks for files on your SD card. Transfer files to your SD card and then disconnect the USB cable so Ringdroid can find them.
 
-Ringdroid only supports *MP3*, *WAV*, and *AMR* files.  The filenames must have the correct extension or Ringdroid will not recognize them!  For example, make sure that an MP3 file ends in ".mp3".
+Ringdroid only supports *MP3*, *WAV*, and *AMR* files. The filenames must have the correct extension or Ringdroid will not recognize them! For example, make sure that an MP3 file ends in ".mp3".
+
+*Note for iPod/iTunes users!* By default, iTunes uses AAC as its audio file format. Android supports AAC format for playback, but Ringdroid currently doesn't support it for editing, so such files will not show up in the Ringdroid menu. If your favorite songs from iTunes aren't showing up, go into iTunes on your PC, select 'Preferences,' then 'Advanced,' and under 'Importing,' choose 'Import Using: MP3 Encoder'. Then return to your library in iTunes, select the songs you want to convert to MP3 format, and under the top-level 'Advanced' menu, choose 'Convert Selection to MP3'. This will create MP3-formatted files that you can then move to your Android device and open using Ringdroid.
+
+*Note for Windows Media users!* By default, Windows Media Player uses WMA as its audio file format. Android supports WMA format for playback, but Ringdroid currently doesn't support it for editing, so such files will not show up in the Ringdroid menu. Depending on what version of Windows you have, converting WMA files to MP3 or another format may or may not be an easy task. Consider using [http://audacity.sourceforge.net Audacity] for this task, or ask a friend who uses iTunes to help you out.
 
 If you would like Ringdroid to support an additional file format, tell us which one by [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA filling out our survey]
 
@@ -16,7 +20,7 @@ If you have a file that appears to be in the correct format but Ringdroid has tr
 
 ==How do I delete ringtones I created?==
 
-When you create a ringtone using Ringdroid, it's just saving a new sound file on your SD card.  You can delete ringtones from your SD card the same way you would delete any other file you've copied to your SD card.  Attach your handset to your computer using a USB cable, and the contents of your SD card will show up on your computer's desktop.  Look in the folders *audio > media > ringtones* to find the ringtones created by Ringdroid.  Drag any of those files to your trash / recycle bin to delete them from your SD card.
+When you create a ringtone using Ringdroid, it's just saving a new sound file on your SD card. You can delete ringtones from your SD card the same way you would delete any other file you've copied to your SD card. Attach your handset to your computer using a USB cable, and the contents of your SD card will show up on your computer's desktop. Look in the folders *audio > media > ringtones* to find the ringtones created by Ringdroid. Drag any of those files to your trash / recycle bin to delete them from your SD card.
 
 You can also use an SD Card Reader rather than connecting your handset to your computer.
 
@@ -24,17 +28,17 @@ We haven't seen an SD Card file manager for Ringdroid yet, but it would be possi
 
 ==I got an error while saving==
 
-  # Is your handset connected to your computer via USB?  Try disconnecting it first.
-  # Is your selection very short?  Android has problems with very short sound files; try making it at least one second long.
-  # Is there a problem with your SD card?  Try removing it and inserting it again.
-  # If all else fails, reboot your handset (turn it off and then on).
-  # If the problem persists, email ringdroid-support@google.com and tell us as much information as possible about the error you're getting.
+ # Is your handset connected to your computer via USB? Try disconnecting it first.
+ # Is your selection very short? Android has problems with very short sound files; try making it at least one second long.
+ # Is there a problem with your SD card? Try removing it and inserting it again.
+ # If all else fails, reboot your handset (turn it off and then on).
+ # If the problem persists, email ringdroid-support@google.com and tell us as much information as possible about the error you're getting.
 
 ==It sounds distorted or funny!==
 
-*Is the original music distorted?*  Try opening the original music with the "Music" application.  If the original music is distorted too, then the problem is with Android or with the T-mobile G1.  Try converting your sound to a different format with a program like Audacity for your PC.
+*Is the original music distorted?* Try opening the original music with the "Music" application. If the original music is distorted too, then the problem is with Android or with the T-mobile G1. Try converting your sound to a different format with a program like Audacity for your PC.
 
-*Is the original fine, but the saved ringtone is distorted?*  Please email the file to ringdroid-support@google.com and we will try to fix the problem in the next version.
+*Is the original fine, but the saved ringtone is distorted?* Please email the file to ringdroid-support@google.com and we will try to fix the problem in the next version.
 
 ==I have a feature request==
 
@@ -42,10 +46,10 @@ Please [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA fill
 
 ==I found a bug!==
 
-Please check the other questions, above.  If it isn't covered, please email your bug report to ringdroid-support@google.com.  Please include *as much information as possible*, otherwise there's no way we can help you.  If you have a problem with just one particular sound file, please *email us the file*.  We don't mind big attachments, so don't be afraid to send us a big file.  Please, just one file, though.
+Please check the other questions, above. If it isn't covered, please email your bug report to ringdroid-support@google.com. Please include *as much information as possible*, otherwise there's no way we can help you. If you have a problem with just one particular sound file, please *email us the file*. We don't mind big attachments, so don't be afraid to send us a big file. Please, just one file, though.
 
 ==Can I help?==
 
-We need volunteers to help edit this website and help out users.  Please email ringdroid-support@google.com and tell us your Google account email address if you'd like to be given access to edit the website.  Please tell us specifically where you think you can help, and if you have any previous writing experience, technical experience, or web design experience, let us know.
+We need volunteers to help edit this website and help out users. Please email ringdroid-support@google.com and tell us your Google account email address if you'd like to be given access to edit the website. Please tell us specifically where you think you can help, and if you have any previous writing experience, technical experience, or web design experience, let us know.
 
 If you're a developer, check out the [[Developers]] page to see how you can help improve Ringdroid!

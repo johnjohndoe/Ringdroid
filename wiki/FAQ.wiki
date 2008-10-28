@@ -12,9 +12,9 @@ Ringdroid only supports *MP3*, *WAV*, and *AMR* files. The filenames must have t
 
 *Note for iPod/iTunes users!* By default, iTunes uses AAC as its audio file format. Android supports AAC for playback, but Ringdroid currently doesn't support it for editing, so such files will not show up in the Ringdroid menu. If your favorite songs from iTunes aren't showing up, go into iTunes on your PC, select 'Preferences,' then 'Advanced,' and under 'Importing,' choose 'Import Using: MP3 Encoder'. Then return to your library in iTunes, select the songs you want to convert to MP3 format, and under the top-level 'Advanced' menu, choose 'Convert Selection to MP3'. This will create MP3-formatted files that you can then move to your Android device and open using Ringdroid.
 
-*Note for Windows Media users!* By default, Windows Media Player uses WMA as its audio file format. Android supports WMA for playback, but Ringdroid currently doesn't support it for editing, so such files will not show up in the Ringdroid menu. Depending on what version of Windows you have, converting WMA files to MP3 or another format may or may not be an easy task. Consider using [http://audacity.sourceforge.net Audacity] for this task, or ask a friend who uses iTunes to help you out.
+*Note for Windows Media users!* By default, Windows Media Player uses WMA as its audio file format. Android supports WMA for playback, but Ringdroid currently doesn't support it for editing, so such files will not show up in the Ringdroid menu. Depending your facility with Windows, converting WMA files may or may not be easy to do. Consider using [http://audacity.sourceforge.net Audacity] for this task, or ask a friend who uses iTunes to help you out.
 
-If you would like Ringdroid to support an additional file format, tell us which one by [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA filling out our survey]
+If you would like Ringdroid to support an additional file format, tell us which one by [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA filling out our survey].
 
 If you have a file that appears to be in the correct format but Ringdroid has trouble with it, please email the file to ringdroid-support@google.com and we will try to fix the problem in the next version.
 
@@ -22,9 +22,9 @@ If you have a file that appears to be in the correct format but Ringdroid has tr
 
 When you create a ringtone using Ringdroid, it's just saving a new sound file on your SD card. You can delete ringtones from your SD card the same way you would delete any other file you've copied to your SD card. Attach your handset to your computer using a USB cable, and the contents of your SD card will show up on your computer's desktop. Look in the folders *audio > media > ringtones* to find the ringtones created by Ringdroid. Drag any of those files to your trash / recycle bin to delete them from your SD card.
 
-You can also use an SD Card Reader rather than connecting your handset to your computer.
+You can also use an SD Card reader rather than connecting your handset to your computer.
 
-We haven't seen an SD Card file manager for Ringdroid yet, but it would be possible - and if someone ever creates one, you would be able to use that to delete files.
+We haven't seen an SD Card file manager for Ringdroid yet, but it should be possible (see [[Developers]] page)... and if someone ever creates one, you'll be able to use that to delete files.
 
 ==I got an error while saving==
 
@@ -42,7 +42,7 @@ We haven't seen an SD Card file manager for Ringdroid yet, but it would be possi
 
 ==I have a feature request==
 
-Please [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA fill out our survey]
+Please [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA fill out our survey].
 
 ==I found a bug!==
 

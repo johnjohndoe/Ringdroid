@@ -20,11 +20,13 @@ If you have a file that appears to be in the correct format but Ringdroid has tr
 
 ==How do I delete ringtones I created?==
 
-When you create a ringtone using Ringdroid, it's just saving a new sound file on your SD card. You can delete ringtones from your SD card the same way you would delete any other file you've copied to your SD card. Attach your handset to your computer using a USB cable, and the contents of your SD card will show up on your computer's desktop. Look in the folders *audio > media > ringtones* to find the ringtones created by Ringdroid. Drag any of those files to your trash / recycle bin to delete them from your SD card.
+Sorry, there isn't a way to delete the ringtones from within Ringdroid!  Not yet, at least.
+
+You just need to delete the files some other way: either download a File Manager program from the market (there are at least two), or connect your phone to your computer and use your computer to delete the ringtones from your SD card.
+
+Longer answer: When you create a ringtone using Ringdroid, it's just saving a new sound file on your SD card. You can delete ringtones from your SD card the same way you would delete any other file you've copied to your SD card. Attach your handset to your computer using a USB cable, and the contents of your SD card will show up on your computer's desktop. Look in the folders *audio > media > ringtones* to find the ringtones created by Ringdroid. Drag any of those files to your trash / recycle bin to delete them from your SD card.
 
 You can also use an SD Card reader rather than connecting your handset to your computer.
-
-We haven't seen an SD Card file manager for Ringdroid yet, but it should be possible (see [[Developers]] page)... and if someone ever creates one, you'll be able to use that to delete files.
 
 ==I got an error while saving==
 

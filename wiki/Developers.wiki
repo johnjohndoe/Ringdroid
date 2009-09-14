@@ -10,8 +10,7 @@ Supported file formats right now include:
    * WAV
    * MP3
    * 3GPP/AMR (this is the only format that Android records into currently)
-
-Support for Ogg Vorbis is desirable because ringtones already on the phone are in this format already.  Next would be AAC and WMA, but I know far less about those formats.
+   * AAC/MP4 (including iTunes AAC files)
 
 ==Editing and audio effects==
 

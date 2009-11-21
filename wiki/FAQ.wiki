@@ -36,6 +36,12 @@ Just long-press on the name of a sound and choose Delete from the pop-up menu.
 
 *Is the original fine, but the saved ringtone is distorted?* Please email the file to ringdroid-support@google.com and we will try to fix the problem in the next version.
 
+==I can't hear the alarm!==
+
+On Android there is a separate volume control for alarms.  Go to the Alarm Clock application, and edit the alarm sound for one of your alarms.  Click on one of the alarm sounds to hear a preview.  If you don't hear anything, or if it's too quiet, press your volume controls while it's playing.  You'll see a pop-up window that shows the alarm volume.
+
+Alternatively, download one of the free "Volume" control applications from the Market, many of which will let you set the volume for Music, Ringtones, and Alarms independently.
+
 ==I have a feature request==
 
 Please [http://spreadsheets.google.com/viewform?key=pjClfOcMDHuckMdw44cfgNA fill out our survey].

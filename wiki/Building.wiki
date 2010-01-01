@@ -16,11 +16,11 @@ There are two ways to build Android applications: using Apache Ant (a command-li
 
 If you choose to use Apache Ant, put the path to the "tools" directory from the SDK into your path, and then run this command to generate a build.xml file:
 
-{{{activitycreator -o . com.ringdroid.RingdroidSelectActivity}}}
+{{{android update project -n ringdroid -t 2 -p .}}}
 
 To build, just run:
 
-{{{ant}}}
+{{{ant debug}}}
 
 This will generate a debug Android package (.apk) file in the "bin" directory, which you can install on an Android emulator or on an actual handset.  Ringdroid won't work without an SD Card, so you should make sure that you create an SD Card disk image if you're going to try Ringdroid with an emulator.
 
@@ -28,7 +28,7 @@ For information on how to run the emulator and set up an SD card, see: http://co
 
 Once your emulator is running, use this command to install the debug APK on your emulator:
 
-{{{adb install -r bin/RingdroidSelectActivity-debug.apk}}}
+{{{adb install -r bin/ringdroid-debug.apk}}}
 
 This same command works if you have a handset attached via USB.  Use the "-d" and "-e" commands to direct an install to the device or emulator, respectively.
 
@@ -48,7 +48,7 @@ http://code.google.com/android/intro/develop-and-debug.html
 
 {{{
 ant release
-cp bin/RingdroidSelectActivity-unsigned.apk bin/Ringdroid.apk
+cp bin/ringdroid-unsigned.apk bin/Ringdroid.apk
 jarsigner -keystore ringdroid.keystore bin/Ringdroid.apk ringdroid
 }}}
 

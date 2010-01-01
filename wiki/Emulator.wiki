@@ -25,10 +25,7 @@ _This wiki page is a work in progress.  Please contribute by helping to make it 
 
 =Windows=
 
-  * Go to the SDK download page here: http://code.google.com/android/download.html - click "I agree to the terms of the SDK License", and click "Continue".
-  * Click on the link to the package android-sdk-windows-1.0_r1.zip, next to "Windows"
-  * ???
-  * Profit!  (Seriously, someone who uses Windows should contribute this section.)
+See user-submitted comment below.
 
 =Linux (i386) =
 

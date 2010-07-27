@@ -16,11 +16,23 @@ If you would like Ringdroid to support an additional file format, tell us which 
 
 If you have a file that appears to be in the correct format but Ringdroid has trouble with it, please email the file to ringdroid-support@google.com and we will try to fix the problem in the next version.
 
+==I still don't see all of my files!==
+
+Try opening the built-in Music app. Do you see all of your music there? If not, then the problem isn't with Ringdroid - Android doesn't see your music at all.
+
+To force Android to see new music files, you need to unmount and mount your SD Card. You can do this by attaching your phone to your computer, or with apps like MountUSB.
+
 ==How do I delete ringtones I created?==
 
-Ringdroid 1.1 and higher now lets you delete ringtones and other sounds directly from within Ringdroid!
+Just open Ringdroid, long-press on the name of a sound and choose Delete from the pop-up menu.
 
-Just long-press on the name of a sound and choose Delete from the pop-up menu.
+==I assigned a ringtone to a contact, but it didn't work!==
+
+This was a bug in older versions. Upgrade to Ringdroid 2.4 or higher.
+
+==No matter where I move the sliders, it always plays the song from the beginning.==
+
+This is a bug in the HTC Hero / Droid Eris. Ringdroid 2.3 tries to fix this problem. If you're still experiencing it, reboot your phone and uninstall and reinstall Ringdroid. If that still doesn't fix it, post more information about what kind of phone you have to this list.
 
 ==I got an error while saving==
 

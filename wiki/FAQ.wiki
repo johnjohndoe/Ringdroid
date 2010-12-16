@@ -26,6 +26,29 @@ To force Android to see new music files, you need to unmount and mount your SD C
 
 Just open Ringdroid, long-press on the name of a sound and choose Delete from the pop-up menu.
 
+==What information is sent if I opt-in to sending anonymous data to Ringdroid.com?==
+
+After you've saved at least two ringtones using Ringdroid, you get a prompt that asks you:
+
+*Okay to send anonymous data about the ringtones and other sounds you create to Ringdroid.com so we can collect statistics?*
+
+If you click "OK to send", Ringdroid will upload the following information every time you _save_ a ringtone:
+  # Information about the song (title, artist, album, year, filename)
+  # The Android version number of your phone (like 2.2)
+  # The Ringdroid version
+  # A randomly-generated unique ID to prevent abuse and duplicates
+
+No information about your user name, phone number, or anything personal like that is sent!
+
+If you don't want this information sent, just click "Never" when prompted.
+
+==I clicked "OK to send", but I don't want Ringdroid collecting that information anymore!==
+
+You can reset Ringdroid to its default settings, which will clear your preferences and your unique ID. That will stop Ringdroid from sending any more data. To reset Ringdroid:
+
+  * Open Settings -> Applications -> Manage Applications -> Ringdroid
+  * Click "Clear Data"
+
 ==I assigned a ringtone to a contact, but it didn't work!==
 
 This was a bug in older versions. Upgrade to Ringdroid 2.4 or higher.

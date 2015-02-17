@@ -1,5 +1,7 @@
 # Ringdroid
 
+![Ringdroid logo](logo.png "Ringdroid logo")
+
 A sound editor and ringtone creator for the Android operating system.  
 Forked from http://code.google.com/p/ringdroid/
 
